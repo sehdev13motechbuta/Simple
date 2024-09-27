@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caterpillar.web", "Caterpillar\Caterpillar.web.csproj", "{9E75197E-0B7F-42BD-B466-163227714D70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caterpillar.Enities", "Caterpillar.Enities\Caterpillar.Enities.csproj", "{A03AC3FF-AB71-46E3-BD54-1CB72BDA1258}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caterpillar.Repository", "Caterpillar.Repository\Caterpillar.Repository.csproj", "{91137FFD-BB58-4C9F-A612-1F9FEC789E9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caterpillar.Utility", "Caterpillar.Utility\Caterpillar.Utility.csproj", "{68E67221-DFA2-428C-9974-D7D83DB6B4B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E75197E-0B7F-42BD-B466-163227714D70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E75197E-0B7F-42BD-B466-163227714D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E75197E-0B7F-42BD-B466-163227714D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E75197E-0B7F-42BD-B466-163227714D70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A03AC3FF-AB71-46E3-BD54-1CB72BDA1258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A03AC3FF-AB71-46E3-BD54-1CB72BDA1258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A03AC3FF-AB71-46E3-BD54-1CB72BDA1258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A03AC3FF-AB71-46E3-BD54-1CB72BDA1258}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91137FFD-BB58-4C9F-A612-1F9FEC789E9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91137FFD-BB58-4C9F-A612-1F9FEC789E9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91137FFD-BB58-4C9F-A612-1F9FEC789E9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91137FFD-BB58-4C9F-A612-1F9FEC789E9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68E67221-DFA2-428C-9974-D7D83DB6B4B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68E67221-DFA2-428C-9974-D7D83DB6B4B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68E67221-DFA2-428C-9974-D7D83DB6B4B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68E67221-DFA2-428C-9974-D7D83DB6B4B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DE79AF2-EC91-4A22-B33D-4E424C7E9C32}
+	EndGlobalSection
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 5
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Caterpillar\\Caterpillar.web.csproj
+		SccProjectName1 = \u0022$/Caterpillar.root/Caterpillar/Caterpillar\u0022,\u0020FAAAAAAA
+		SccLocalPath1 = Caterpillar
+		SccProjectUniqueName2 = Caterpillar.Enities\\Caterpillar.Enities.csproj
+		SccProjectName2 = \u0022$/Caterpillar.root/Caterpillar/Caterpillar.Enities\u0022,\u0020PAAAAAAA
+		SccLocalPath2 = Caterpillar.Enities
+		SccProjectUniqueName3 = Caterpillar.Repository\\Caterpillar.Repository.csproj
+		SccProjectName3 = \u0022$/Caterpillar.root/Caterpillar/Caterpillar.Repository\u0022,\u0020YAAAAAAA
+		SccLocalPath3 = Caterpillar.Repository
+		SccProjectUniqueName4 = Caterpillar.Utility\\Caterpillar.Utility.csproj
+		SccProjectName4 = \u0022$/Caterpillar.root/Caterpillar/Caterpillar.Utility\u0022,\u0020PBAAAAAA
+		SccLocalPath4 = Caterpillar.Utility
+	EndGlobalSection
+EndGlobal
